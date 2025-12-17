@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 
-def load_and_process_data(file_path="train.csv"):
+def load_and_process_data(file_path="train_updated.csv"):
     df = pd.read_csv(file_path)
     df = df.dropna()  # Missing values hatao
     X = df.drop(columns=['Price ($)'])  # Features

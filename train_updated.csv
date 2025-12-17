@@ -1,0 +1,1001 @@
+Brand,Processor,RAM (GB),Storage (GB),Camera (MP),Battery (mAh),Display Size (inches),Refresh Rate (Hz),5G Support,Operating System,Launch Year,Price ($)
+OnePlus,Dimensity 9200,8,64,108,5000,6.7,144,1,Android,2021,711
+Samsung,Dimensity 9200,6,128,108,3000,6.1,90,1,Android,2024,924
+Vivo,Snapdragon 8 Gen 2,4,256,64,5000,6.1,144,1,Android,2019,529
+Oppo,A17 Bionic,4,64,200,4500,7.0,90,0,Android,2023,1015
+Xiaomi,Dimensity 9200,8,128,200,4000,6.4,60,1,Android,2024,1099
+Vivo,Dimensity 9200,16,128,12,3000,6.4,60,0,Android,2019,354
+Xiaomi,Exynos 2200,6,256,64,4500,6.1,60,1,Android,2019,467
+Oppo,A17 Bionic,12,128,108,6000,7.0,60,0,Android,2024,1280
+Apple,Exynos 2200,12,1024,64,4500,6.1,90,0,iOS,2018,793
+Samsung,A17 Bionic,16,1024,48,5000,6.4,90,0,Android,2020,647
+Oppo,Dimensity 9200,6,64,12,4000,6.1,120,0,Android,2022,662
+Realme,Kirin 9000,12,256,200,4000,5.5,144,0,Android,2024,1177
+Apple,Snapdragon 8 Gen 2,12,1024,108,4000,7.0,120,0,iOS,2024,2040
+Motorola,Snapdragon 778G,8,1024,64,4500,6.7,144,1,Android,2020,702
+Xiaomi,A17 Bionic,12,128,200,5000,6.1,60,1,Android,2020,643
+Motorola,Snapdragon 8 Gen 2,6,64,12,4500,5.5,144,0,Android,2019,415
+Oppo,Dimensity 9200,12,512,48,4500,6.1,144,0,Android,2021,668
+Xiaomi,Dimensity 9200,6,64,200,5000,6.1,120,1,Android,2019,481
+Oppo,Kirin 9000,4,128,48,4500,6.4,90,0,Android,2021,520
+Apple,Snapdragon 778G,4,64,64,6000,5.5,60,0,iOS,2019,670
+Google,Exynos 2200,8,512,108,3000,6.4,144,1,Android,2022,896
+Xiaomi,Dimensity 9200,12,128,12,3000,6.7,90,1,Android,2024,745
+Motorola,Snapdragon 8 Gen 2,4,64,48,6000,6.1,144,0,Android,2022,1001
+Vivo,Dimensity 9200,6,64,64,4000,5.5,90,0,Android,2023,964
+Sony,Dimensity 9200,16,1024,108,4000,6.4,144,0,Android,2023,1261
+Realme,Kirin 9000,16,128,48,6000,7.0,144,1,Android,2022,1043
+Motorola,Snapdragon 8 Gen 2,12,64,48,4500,6.7,90,0,Android,2022,843
+Google,Dimensity 9200,6,512,200,5000,6.1,144,0,Android,2020,630
+Motorola,Dimensity 9200,12,1024,64,4500,6.7,144,1,Android,2021,887
+Oppo,A17 Bionic,16,64,200,4000,6.7,90,0,Android,2021,635
+OnePlus,A17 Bionic,16,256,48,6000,6.4,90,1,Android,2024,1408
+Sony,A17 Bionic,16,128,108,4000,6.7,120,0,Android,2023,1073
+Vivo,Snapdragon 8 Gen 2,12,128,48,4000,6.4,60,0,Android,2020,488
+Xiaomi,Snapdragon 778G,4,64,200,5000,6.4,120,1,Android,2018,559
+Oppo,Exynos 2200,8,1024,48,4500,5.5,120,1,Android,2018,585
+OnePlus,Exynos 2200,8,512,64,4000,6.1,90,0,Android,2019,423
+Samsung,A17 Bionic,8,128,200,6000,7.0,60,1,Android,2021,811
+Vivo,A17 Bionic,16,128,108,4000,7.0,60,1,Android,2019,437
+Google,Snapdragon 8 Gen 2,8,256,48,5000,7.0,90,1,Android,2020,569
+Apple,Exynos 2200,12,128,64,4000,6.7,144,0,iOS,2021,1024
+Xiaomi,Dimensity 9200,4,256,12,4000,6.1,90,1,Android,2022,892
+Xiaomi,A17 Bionic,4,256,108,6000,6.7,120,1,Android,2022,1210
+Google,Exynos 2200,8,64,48,4000,6.4,90,1,Android,2018,383
+Motorola,Snapdragon 778G,16,1024,48,4000,6.1,144,1,Android,2023,1314
+Oppo,Dimensity 9200,12,512,48,6000,6.4,120,0,Android,2020,627
+Google,Dimensity 9200,16,1024,200,6000,6.4,60,1,Android,2019,695
+Realme,Snapdragon 8 Gen 2,12,1024,48,6000,6.1,144,1,Android,2023,1354
+OnePlus,Exynos 2200,16,512,12,6000,7.0,90,1,Android,2020,719
+Google,Kirin 9000,16,1024,12,3000,6.4,60,1,Android,2019,492
+Google,A17 Bionic,8,256,108,6000,6.4,120,1,Android,2021,830
+Apple,Snapdragon 778G,16,128,64,5000,6.7,60,0,iOS,2018,723
+OnePlus,A17 Bionic,16,128,200,6000,5.5,60,0,Android,2020,716
+Oppo,Snapdragon 8 Gen 2,12,256,64,5000,6.7,60,0,Android,2020,535
+Motorola,Kirin 9000,6,512,200,3000,6.4,60,0,Android,2020,535
+Samsung,Dimensity 9200,6,64,48,5000,6.1,60,0,Android,2022,941
+Apple,Exynos 2200,16,1024,64,4000,6.1,120,1,iOS,2021,1121
+Realme,A17 Bionic,16,1024,200,4000,7.0,60,0,Android,2020,638
+Motorola,Snapdragon 778G,16,128,108,4500,6.1,144,0,Android,2020,652
+Google,Snapdragon 778G,6,512,48,6000,6.1,144,0,Android,2023,1305
+Google,Snapdragon 8 Gen 2,16,1024,48,4000,7.0,60,0,Android,2019,533
+Google,Dimensity 9200,8,1024,64,5000,7.0,90,1,Android,2023,1135
+Vivo,Exynos 2200,4,64,64,3000,5.5,60,0,Android,2018,325
+Samsung,Dimensity 9200,6,128,200,6000,5.5,144,0,Android,2024,1287
+Google,A17 Bionic,12,256,64,6000,6.1,90,0,Android,2020,625
+Vivo,Dimensity 9200,6,64,48,3000,6.1,120,0,Android,2020,415
+Vivo,Kirin 9000,16,128,12,3000,7.0,144,0,Android,2018,401
+Realme,Snapdragon 8 Gen 2,4,128,200,4000,6.4,90,0,Android,2023,1020
+Vivo,Dimensity 9200,6,128,200,4500,7.0,90,0,Android,2023,1114
+OnePlus,Snapdragon 8 Gen 2,8,512,108,4500,6.7,60,0,Android,2018,424
+Xiaomi,Dimensity 9200,16,512,48,6000,7.0,120,0,Android,2020,643
+OnePlus,A17 Bionic,6,64,12,4000,7.0,120,0,Android,2023,736
+Realme,Snapdragon 8 Gen 2,16,512,200,3000,6.1,90,1,Android,2020,553
+Xiaomi,Kirin 9000,4,256,48,6000,5.5,120,1,Android,2023,1075
+Google,Snapdragon 8 Gen 2,12,512,12,6000,6.4,60,1,Android,2024,1325
+Samsung,Snapdragon 778G,6,512,64,4000,7.0,90,0,Android,2018,410
+Sony,Snapdragon 8 Gen 2,8,1024,48,6000,6.7,90,1,Android,2023,1381
+Realme,Snapdragon 778G,8,512,200,3000,6.1,120,0,Android,2021,632
+Xiaomi,Snapdragon 8 Gen 2,4,128,200,4000,7.0,144,0,Android,2021,695
+Oppo,Dimensity 9200,16,512,12,4500,6.7,144,1,Android,2022,1023
+Google,A17 Bionic,4,1024,12,4000,7.0,60,1,Android,2022,874
+Sony,Kirin 9000,12,64,64,6000,7.0,60,1,Android,2022,1041
+Xiaomi,A17 Bionic,12,128,48,6000,7.0,144,1,Android,2018,599
+Apple,Kirin 9000,12,512,48,4500,6.4,120,0,iOS,2020,883
+Samsung,Dimensity 9200,4,64,200,6000,6.4,90,0,Android,2022,1116
+Oppo,A17 Bionic,8,512,108,6000,6.1,144,1,Android,2023,1369
+Xiaomi,Exynos 2200,8,64,64,4500,6.7,90,0,Android,2020,485
+Oppo,Kirin 9000,12,64,108,4500,5.5,60,0,Android,2021,687
+Xiaomi,Kirin 9000,16,64,48,4000,6.4,120,1,Android,2020,535
+Apple,Kirin 9000,4,1024,48,5000,5.5,60,1,iOS,2024,1846
+Sony,Exynos 2200,8,256,108,4500,5.5,120,0,Android,2024,1113
+Sony,A17 Bionic,16,1024,64,3000,6.7,60,1,Android,2022,834
+Realme,Snapdragon 8 Gen 2,4,64,200,3000,6.4,90,1,Android,2023,922
+Xiaomi,Dimensity 9200,4,512,108,4000,6.1,120,0,Android,2023,1086
+Xiaomi,Dimensity 9200,12,512,12,4500,6.7,90,0,Android,2022,831
+Apple,Dimensity 9200,16,128,108,4000,6.1,60,1,iOS,2023,1420
+Apple,Kirin 9000,12,64,200,4000,6.7,60,0,iOS,2020,745
+Motorola,Kirin 9000,8,1024,64,3000,6.1,60,1,Android,2024,942
+Oppo,Kirin 9000,4,128,108,4500,6.1,120,1,Android,2018,427
+Sony,Snapdragon 8 Gen 2,12,256,64,6000,5.5,144,0,Android,2018,519
+Xiaomi,Dimensity 9200,6,512,48,5000,6.1,60,1,Android,2024,1094
+Google,Snapdragon 8 Gen 2,12,128,108,6000,6.7,90,0,Android,2022,983
+OnePlus,A17 Bionic,6,256,48,4000,6.4,120,1,Android,2018,477
+OnePlus,Snapdragon 8 Gen 2,16,1024,200,4000,6.1,144,1,Android,2020,686
+Vivo,Snapdragon 778G,16,256,64,6000,6.4,120,1,Android,2023,1368
+Sony,Snapdragon 778G,12,128,12,4500,6.4,90,1,Android,2018,449
+Xiaomi,A17 Bionic,16,128,200,4500,6.7,120,1,Android,2023,1215
+Vivo,Snapdragon 778G,6,128,108,4000,7.0,144,0,Android,2020,560
+Motorola,Snapdragon 8 Gen 2,16,1024,12,3000,7.0,120,1,Android,2022,827
+Motorola,Exynos 2200,16,64,108,5000,7.0,120,0,Android,2023,1135
+Motorola,Snapdragon 8 Gen 2,12,1024,12,3000,7.0,120,0,Android,2024,1003
+Realme,Kirin 9000,12,512,12,4000,6.7,60,1,Android,2018,477
+Oppo,Snapdragon 8 Gen 2,8,1024,200,6000,5.5,144,0,Android,2021,938
+Samsung,Exynos 2200,12,64,48,4000,6.4,120,0,Android,2022,750
+OnePlus,Snapdragon 778G,6,1024,200,6000,6.4,90,0,Android,2018,604
+Motorola,Snapdragon 778G,8,512,108,4500,7.0,120,1,Android,2024,1202
+Realme,Kirin 9000,12,512,108,6000,7.0,144,0,Android,2021,785
+Realme,Dimensity 9200,16,64,64,5000,7.0,120,0,Android,2023,1102
+Samsung,Exynos 2200,4,512,64,5000,7.0,90,1,Android,2024,1180
+Samsung,Dimensity 9200,8,128,64,5000,6.7,120,0,Android,2018,503
+Vivo,A17 Bionic,16,1024,108,6000,6.4,144,0,Android,2022,1406
+Realme,A17 Bionic,8,128,200,3000,5.5,90,1,Android,2023,828
+Sony,Snapdragon 778G,6,1024,200,6000,6.1,120,0,Android,2022,1304
+Apple,Dimensity 9200,6,512,108,4000,5.5,60,1,iOS,2022,1345
+Xiaomi,Kirin 9000,4,64,64,5000,5.5,90,0,Android,2020,510
+Sony,Dimensity 9200,8,64,12,3000,6.1,60,1,Android,2019,277
+Realme,Snapdragon 778G,16,512,108,5000,6.7,90,0,Android,2018,550
+Xiaomi,Exynos 2200,4,512,64,3000,6.4,60,0,Android,2021,569
+Apple,A17 Bionic,4,512,200,4500,7.0,120,1,iOS,2022,1645
+Sony,Kirin 9000,12,512,12,5000,6.4,60,1,Android,2020,589
+Sony,Snapdragon 8 Gen 2,6,512,108,3000,7.0,120,0,Android,2020,550
+Motorola,Snapdragon 778G,16,128,200,4000,5.5,60,0,Android,2023,1110
+Motorola,Snapdragon 8 Gen 2,12,256,108,3000,6.7,60,0,Android,2018,416
+Apple,Dimensity 9200,16,64,12,3000,6.7,144,0,iOS,2023,1297
+Vivo,Dimensity 9200,8,128,108,5000,6.1,90,0,Android,2020,561
+Motorola,Snapdragon 8 Gen 2,8,64,12,3000,7.0,60,1,Android,2024,760
+OnePlus,Dimensity 9200,12,64,64,4500,6.7,144,0,Android,2018,496
+OnePlus,Snapdragon 778G,12,64,12,4000,7.0,144,1,Android,2024,949
+Google,A17 Bionic,16,128,48,4500,6.7,120,1,Android,2019,441
+Motorola,Snapdragon 8 Gen 2,16,64,48,4500,5.5,144,0,Android,2023,990
+Samsung,Kirin 9000,8,256,48,4000,6.7,60,1,Android,2022,779
+Apple,A17 Bionic,16,64,48,3000,6.7,144,1,iOS,2021,758
+Apple,A17 Bionic,4,256,12,5000,6.7,120,0,iOS,2020,791
+Google,Kirin 9000,16,128,200,4000,7.0,144,0,Android,2019,491
+Xiaomi,A17 Bionic,6,64,200,3000,6.4,144,0,Android,2019,374
+Realme,Snapdragon 778G,12,512,64,3000,5.5,90,0,Android,2019,356
+Motorola,Dimensity 9200,4,128,48,4000,7.0,90,0,Android,2018,361
+Motorola,Snapdragon 8 Gen 2,4,128,200,3000,7.0,60,1,Android,2023,879
+Vivo,Kirin 9000,6,64,12,6000,5.5,120,1,Android,2018,526
+Xiaomi,Kirin 9000,4,64,48,6000,6.1,144,1,Android,2023,1062
+Xiaomi,Snapdragon 8 Gen 2,8,256,64,3000,6.7,60,1,Android,2018,369
+Realme,Exynos 2200,12,512,108,5000,7.0,90,1,Android,2018,583
+Samsung,Kirin 9000,12,256,48,3000,6.7,60,0,Android,2023,765
+Google,A17 Bionic,12,64,12,4000,6.7,90,1,Android,2024,1094
+Sony,Exynos 2200,6,128,64,3000,5.5,90,0,Android,2018,358
+Sony,A17 Bionic,8,512,12,4500,6.1,120,1,Android,2019,505
+Vivo,Kirin 9000,16,128,64,4000,5.5,90,0,Android,2024,935
+Motorola,Dimensity 9200,12,1024,64,4500,5.5,144,1,Android,2024,1337
+Apple,Exynos 2200,16,512,64,4500,6.7,90,1,iOS,2020,869
+Apple,Kirin 9000,16,256,200,4000,6.4,90,0,iOS,2019,808
+OnePlus,Snapdragon 8 Gen 2,16,512,48,6000,5.5,144,0,Android,2020,742
+Samsung,Snapdragon 8 Gen 2,8,256,12,5000,5.5,120,1,Android,2024,1024
+Apple,Snapdragon 8 Gen 2,6,64,200,3000,5.5,144,1,iOS,2019,599
+Motorola,Kirin 9000,16,256,12,4500,7.0,120,0,Android,2022,943
+Realme,Kirin 9000,16,1024,108,4500,6.7,90,0,Android,2024,1306
+Sony,A17 Bionic,8,64,64,4500,7.0,120,1,Android,2024,1110
+Sony,Dimensity 9200,8,128,12,4500,6.1,90,1,Android,2023,958
+Motorola,A17 Bionic,4,256,200,4000,7.0,120,1,Android,2022,1010
+Sony,A17 Bionic,6,128,64,6000,6.4,90,1,Android,2018,554
+Samsung,Exynos 2200,6,1024,48,5000,6.1,120,0,Android,2024,1178
+Sony,Snapdragon 8 Gen 2,8,256,108,4000,6.1,120,0,Android,2021,654
+Sony,Snapdragon 8 Gen 2,4,1024,48,3000,6.7,144,1,Android,2021,571
+Motorola,Snapdragon 8 Gen 2,16,128,200,6000,6.1,144,0,Android,2021,924
+Samsung,Snapdragon 778G,8,256,108,3000,7.0,120,1,Android,2018,450
+Realme,Dimensity 9200,4,64,48,6000,6.7,60,1,Android,2018,442
+Motorola,Dimensity 9200,16,128,108,4500,6.1,60,1,Android,2018,460
+Xiaomi,Kirin 9000,8,64,48,4500,6.1,60,0,Android,2023,968
+Vivo,Exynos 2200,6,256,48,3000,6.1,60,1,Android,2024,838
+Apple,Snapdragon 778G,12,256,12,4000,6.7,90,0,iOS,2023,1323
+OnePlus,Kirin 9000,16,1024,108,4000,6.4,144,0,Android,2019,508
+Vivo,Snapdragon 778G,8,1024,200,4000,5.5,144,0,Android,2022,1005
+Realme,Kirin 9000,16,256,108,4000,7.0,60,1,Android,2019,416
+Realme,Kirin 9000,4,64,108,6000,6.4,144,0,Android,2022,1080
+Apple,Snapdragon 8 Gen 2,6,64,12,3000,6.1,144,1,iOS,2021,882
+Xiaomi,Kirin 9000,4,1024,12,4000,6.1,60,0,Android,2022,933
+Sony,Snapdragon 8 Gen 2,16,256,48,4000,6.4,120,0,Android,2023,1104
+Xiaomi,Snapdragon 778G,12,1024,64,5000,6.7,60,1,Android,2024,1399
+Oppo,Exynos 2200,4,64,108,5000,6.7,90,1,Android,2018,490
+Realme,Snapdragon 778G,12,512,12,3000,6.7,144,0,Android,2018,424
+Sony,A17 Bionic,8,128,64,4000,6.4,144,0,Android,2020,535
+OnePlus,Kirin 9000,6,64,64,4500,5.5,90,0,Android,2024,954
+Vivo,Exynos 2200,12,128,200,4000,5.5,120,1,Android,2024,1148
+OnePlus,Dimensity 9200,6,256,64,4000,6.7,90,0,Android,2020,498
+Google,Snapdragon 8 Gen 2,12,64,64,6000,6.4,144,0,Android,2018,540
+Realme,Snapdragon 778G,12,1024,12,4500,6.1,90,0,Android,2022,976
+Realme,A17 Bionic,4,512,48,3000,6.1,90,0,Android,2023,802
+OnePlus,Snapdragon 778G,16,256,12,6000,6.1,60,0,Android,2021,812
+Realme,Snapdragon 778G,8,64,48,3000,6.4,90,1,Android,2020,434
+Vivo,Dimensity 9200,4,1024,200,3000,5.5,144,0,Android,2019,493
+Apple,Snapdragon 778G,16,1024,48,5000,6.7,144,0,iOS,2023,2053
+OnePlus,Kirin 9000,12,512,64,5000,5.5,90,0,Android,2024,1107
+OnePlus,Snapdragon 778G,4,1024,64,4500,7.0,90,1,Android,2018,483
+Vivo,Kirin 9000,8,512,48,4500,7.0,144,1,Android,2023,1038
+Google,Snapdragon 8 Gen 2,12,64,64,6000,5.5,90,1,Android,2024,1306
+Vivo,Kirin 9000,12,128,200,4000,6.1,144,0,Android,2020,605
+Vivo,Dimensity 9200,12,512,64,5000,6.7,60,0,Android,2023,1122
+Sony,Snapdragon 778G,8,512,64,4000,6.4,144,1,Android,2019,492
+Motorola,Exynos 2200,16,1024,64,3000,5.5,90,0,Android,2023,994
+Apple,Dimensity 9200,4,512,64,6000,6.7,120,1,iOS,2022,1570
+Sony,A17 Bionic,16,64,12,4500,5.5,144,0,Android,2024,1161
+OnePlus,Snapdragon 778G,12,256,48,4000,5.5,120,1,Android,2020,569
+Xiaomi,Snapdragon 778G,6,128,64,5000,6.7,120,1,Android,2023,1132
+OnePlus,Dimensity 9200,8,256,12,4500,6.4,90,0,Android,2019,387
+Sony,Snapdragon 8 Gen 2,4,256,200,5000,7.0,90,0,Android,2024,1103
+Motorola,Snapdragon 8 Gen 2,8,256,108,6000,6.7,60,1,Android,2022,1127
+Samsung,Dimensity 9200,4,1024,108,4000,6.1,90,0,Android,2018,522
+Realme,Dimensity 9200,8,256,12,3000,6.1,120,1,Android,2020,425
+Oppo,Snapdragon 8 Gen 2,16,256,108,6000,6.4,120,0,Android,2019,579
+Realme,Exynos 2200,4,1024,48,5000,5.5,90,1,Android,2018,509
+Sony,Kirin 9000,6,256,48,4000,7.0,60,1,Android,2022,767
+Motorola,A17 Bionic,6,128,108,4500,7.0,144,1,Android,2022,1040
+OnePlus,Exynos 2200,16,128,48,4500,7.0,60,1,Android,2018,512
+Apple,Kirin 9000,6,128,200,4000,6.7,90,0,iOS,2024,1520
+Samsung,Snapdragon 8 Gen 2,6,64,48,4000,6.4,90,1,Android,2018,439
+Realme,Snapdragon 8 Gen 2,4,64,200,4000,5.5,120,1,Android,2018,485
+Apple,Snapdragon 8 Gen 2,6,64,108,5000,5.5,144,0,iOS,2023,1566
+OnePlus,Snapdragon 778G,16,128,64,6000,6.7,60,1,Android,2024,1383
+Motorola,Kirin 9000,16,256,108,5000,7.0,120,1,Android,2022,1006
+Apple,Dimensity 9200,6,128,200,6000,6.1,90,1,iOS,2023,2056
+Realme,Exynos 2200,16,64,64,3000,6.7,90,0,Android,2020,424
+Motorola,Snapdragon 778G,16,64,48,5000,6.7,144,1,Android,2023,1179
+Xiaomi,Snapdragon 778G,8,64,200,3000,6.1,144,1,Android,2020,478
+Samsung,Dimensity 9200,8,512,12,3000,6.7,90,1,Android,2023,918
+Apple,Snapdragon 778G,6,256,108,6000,6.4,90,0,iOS,2023,1789
+Xiaomi,Kirin 9000,12,1024,64,6000,5.5,144,0,Android,2018,651
+Samsung,Kirin 9000,16,1024,108,4500,5.5,120,1,Android,2018,631
+Oppo,Snapdragon 778G,8,1024,64,5000,5.5,144,1,Android,2018,597
+Oppo,Kirin 9000,4,256,48,6000,5.5,144,0,Android,2021,674
+OnePlus,Dimensity 9200,4,64,200,3000,5.5,60,0,Android,2019,331
+Apple,Dimensity 9200,12,1024,64,4500,6.4,120,1,iOS,2019,770
+Xiaomi,Snapdragon 8 Gen 2,6,128,48,5000,6.4,144,0,Android,2018,420
+Google,Snapdragon 778G,16,512,108,4000,5.5,144,1,Android,2023,1173
+Oppo,A17 Bionic,4,256,108,6000,6.7,90,0,Android,2023,1251
+Samsung,Snapdragon 778G,16,256,64,4000,7.0,120,1,Android,2020,614
+OnePlus,Exynos 2200,12,256,48,5000,7.0,60,1,Android,2023,1114
+Samsung,Exynos 2200,8,256,48,4500,6.7,120,0,Android,2018,494
+Vivo,Snapdragon 8 Gen 2,4,64,48,5000,6.1,60,0,Android,2018,441
+Xiaomi,Kirin 9000,4,64,64,3000,5.5,144,0,Android,2019,342
+Google,Exynos 2200,12,512,200,6000,7.0,90,1,Android,2018,641
+Realme,Snapdragon 778G,6,1024,48,3000,5.5,60,1,Android,2024,891
+Samsung,Exynos 2200,4,64,108,5000,7.0,144,1,Android,2018,522
+Google,A17 Bionic,6,1024,108,6000,6.4,144,1,Android,2021,855
+Apple,Dimensity 9200,4,1024,108,6000,7.0,120,1,iOS,2020,1200
+Motorola,Snapdragon 778G,16,128,64,5000,7.0,60,1,Android,2020,599
+Xiaomi,A17 Bionic,6,64,108,5000,5.5,144,1,Android,2023,1188
+OnePlus,A17 Bionic,8,1024,64,4500,6.1,120,0,Android,2021,801
+Oppo,Kirin 9000,6,512,48,4000,6.7,90,0,Android,2018,429
+Google,Kirin 9000,12,64,64,3000,6.4,60,1,Android,2023,768
+Oppo,Snapdragon 778G,12,128,200,4000,6.4,90,1,Android,2023,1067
+Google,Exynos 2200,16,64,108,3000,6.1,144,0,Android,2024,955
+Xiaomi,Exynos 2200,16,512,12,4500,6.1,60,1,Android,2022,1067
+Vivo,Snapdragon 778G,4,256,200,4500,7.0,144,1,Android,2019,510
+Google,Kirin 9000,8,256,48,3000,6.4,120,0,Android,2019,340
+Samsung,Dimensity 9200,12,512,108,3000,6.1,90,1,Android,2021,635
+Realme,Kirin 9000,8,1024,64,3000,7.0,120,1,Android,2018,431
+Motorola,A17 Bionic,16,128,12,4500,6.4,60,0,Android,2019,430
+Xiaomi,Snapdragon 8 Gen 2,4,1024,200,5000,6.1,144,1,Android,2018,591
+Apple,A17 Bionic,16,128,200,5000,6.4,144,0,iOS,2023,1842
+Realme,A17 Bionic,4,1024,12,3000,6.4,90,1,Android,2021,562
+Oppo,Dimensity 9200,8,64,12,6000,5.5,144,1,Android,2024,1272
+Google,Snapdragon 778G,4,128,64,3000,6.1,120,0,Android,2019,379
+Xiaomi,Kirin 9000,16,256,64,4000,6.4,144,0,Android,2024,1062
+Motorola,Exynos 2200,8,512,48,4500,6.1,144,1,Android,2022,981
+Oppo,Dimensity 9200,6,256,200,3000,7.0,90,1,Android,2019,416
+Google,Dimensity 9200,16,512,64,4500,6.7,60,1,Android,2020,656
+Apple,Kirin 9000,12,128,64,6000,7.0,60,1,iOS,2019,735
+Google,A17 Bionic,12,256,200,3000,6.4,60,0,Android,2020,542
+Google,Snapdragon 778G,4,256,108,6000,5.5,60,0,Android,2020,561
+OnePlus,Kirin 9000,6,64,12,6000,5.5,90,0,Android,2019,501
+Xiaomi,Kirin 9000,16,512,48,5000,7.0,120,1,Android,2019,530
+Realme,Snapdragon 778G,8,1024,200,5000,5.5,60,1,Android,2020,683
+Xiaomi,Exynos 2200,8,512,64,5000,7.0,60,0,Android,2020,626
+Oppo,Exynos 2200,8,512,200,4500,6.7,120,0,Android,2024,1198
+Motorola,Exynos 2200,16,64,12,6000,6.4,144,0,Android,2021,836
+Realme,Snapdragon 8 Gen 2,6,1024,64,4500,7.0,120,1,Android,2023,1149
+Samsung,Kirin 9000,6,128,64,5000,7.0,90,1,Android,2018,428
+Google,Snapdragon 8 Gen 2,16,256,64,4000,6.1,120,1,Android,2019,475
+Motorola,Exynos 2200,4,1024,108,3000,5.5,90,0,Android,2019,447
+Apple,Snapdragon 8 Gen 2,16,128,48,4000,6.4,144,0,iOS,2022,1293
+Motorola,Snapdragon 778G,6,1024,48,4000,6.7,120,1,Android,2018,450
+Sony,A17 Bionic,16,128,48,6000,6.1,90,0,Android,2021,712
+Oppo,Kirin 9000,12,256,64,3000,7.0,90,0,Android,2022,737
+Xiaomi,Snapdragon 8 Gen 2,16,512,200,5000,6.4,60,1,Android,2023,1318
+Vivo,Kirin 9000,8,64,48,4000,6.4,120,1,Android,2019,446
+Realme,A17 Bionic,4,256,108,4000,6.7,60,1,Android,2019,401
+Google,Snapdragon 8 Gen 2,6,256,200,5000,5.5,144,1,Android,2023,1314
+Oppo,Snapdragon 778G,4,1024,64,4000,6.7,60,1,Android,2019,443
+Oppo,A17 Bionic,6,1024,200,4500,6.1,60,0,Android,2018,553
+Oppo,Dimensity 9200,4,1024,48,6000,6.7,120,1,Android,2019,620
+Motorola,Exynos 2200,4,64,12,5000,6.1,120,0,Android,2021,640
+Samsung,Snapdragon 8 Gen 2,16,512,108,3000,6.7,120,1,Android,2024,1061
+Samsung,Dimensity 9200,4,1024,12,6000,6.7,120,1,Android,2024,1425
+Motorola,A17 Bionic,4,128,48,4500,6.7,90,1,Android,2023,1052
+Samsung,Exynos 2200,6,256,48,4500,7.0,60,1,Android,2019,465
+Vivo,Dimensity 9200,6,128,200,3000,6.4,144,1,Android,2019,449
+Google,Kirin 9000,8,64,64,4500,6.7,144,1,Android,2018,471
+Xiaomi,Snapdragon 778G,4,1024,12,4000,6.1,60,0,Android,2018,458
+Oppo,Kirin 9000,4,512,48,3000,7.0,60,1,Android,2021,501
+Realme,Kirin 9000,16,1024,200,3000,5.5,144,1,Android,2020,612
+Motorola,Exynos 2200,4,128,48,3000,6.1,144,1,Android,2020,489
+OnePlus,Exynos 2200,8,64,12,5000,6.7,144,1,Android,2024,1066
+Xiaomi,Kirin 9000,6,1024,12,4500,6.1,60,0,Android,2024,1008
+Realme,Dimensity 9200,6,1024,108,4000,6.7,90,1,Android,2023,1170
+OnePlus,Snapdragon 8 Gen 2,4,256,48,4500,6.7,60,0,Android,2018,429
+Google,A17 Bionic,8,128,108,5000,6.1,90,0,Android,2021,664
+OnePlus,A17 Bionic,4,128,64,4000,6.1,120,0,Android,2019,347
+Motorola,Snapdragon 8 Gen 2,8,128,48,4000,7.0,144,1,Android,2019,423
+Motorola,Snapdragon 8 Gen 2,4,128,48,4500,6.1,144,0,Android,2019,460
+Oppo,Kirin 9000,8,1024,108,6000,6.4,144,0,Android,2024,1493
+Samsung,Kirin 9000,6,256,200,4500,6.7,120,1,Android,2022,1077
+Oppo,Snapdragon 778G,6,512,64,6000,5.5,120,0,Android,2019,557
+Sony,Snapdragon 778G,8,1024,64,5000,6.4,60,0,Android,2023,1092
+Realme,Exynos 2200,6,512,108,4000,6.7,120,1,Android,2024,1057
+Samsung,Exynos 2200,8,256,48,6000,6.7,120,0,Android,2024,1309
+Vivo,Kirin 9000,6,128,108,6000,7.0,90,0,Android,2019,514
+Google,Snapdragon 778G,8,512,12,4500,6.4,90,1,Android,2020,510
+Xiaomi,Snapdragon 8 Gen 2,4,128,12,6000,6.7,90,0,Android,2019,464
+Xiaomi,Kirin 9000,8,1024,12,3000,5.5,144,1,Android,2020,591
+OnePlus,Snapdragon 8 Gen 2,16,512,48,3000,7.0,144,1,Android,2021,648
+Xiaomi,Kirin 9000,8,1024,64,3000,6.1,60,1,Android,2020,502
+Oppo,Snapdragon 778G,6,128,108,4000,6.1,60,0,Android,2019,391
+Xiaomi,A17 Bionic,4,512,200,4000,7.0,144,1,Android,2018,490
+Samsung,Dimensity 9200,8,128,108,4000,6.1,60,1,Android,2021,668
+OnePlus,Kirin 9000,8,1024,64,3000,6.7,120,1,Android,2023,916
+Oppo,Snapdragon 8 Gen 2,6,512,48,6000,5.5,120,0,Android,2022,1079
+Sony,Snapdragon 8 Gen 2,4,256,108,5000,6.4,60,1,Android,2020,587
+Sony,Exynos 2200,12,256,12,4500,6.4,120,0,Android,2021,667
+Realme,A17 Bionic,16,512,48,4000,7.0,90,1,Android,2020,590
+Realme,A17 Bionic,12,512,108,4500,7.0,90,0,Android,2022,1088
+Realme,Snapdragon 778G,12,64,64,6000,6.7,144,1,Android,2024,1195
+Realme,Snapdragon 8 Gen 2,8,128,108,3000,6.1,144,1,Android,2018,364
+Apple,A17 Bionic,8,512,48,4000,7.0,60,1,iOS,2022,1270
+Sony,Exynos 2200,16,128,108,4000,6.7,90,0,Android,2022,853
+OnePlus,Snapdragon 8 Gen 2,12,64,64,5000,7.0,60,1,Android,2018,509
+Realme,Snapdragon 778G,4,512,48,6000,6.4,90,1,Android,2020,615
+OnePlus,Exynos 2200,12,128,12,3000,7.0,60,1,Android,2023,735
+Samsung,Snapdragon 778G,16,256,64,6000,6.7,90,0,Android,2019,527
+Apple,Snapdragon 778G,8,1024,64,5000,7.0,144,0,iOS,2020,969
+Oppo,Dimensity 9200,12,64,108,4500,6.1,90,1,Android,2023,964
+OnePlus,Kirin 9000,4,512,64,3000,5.5,90,1,Android,2020,435
+Samsung,Snapdragon 778G,6,64,48,4000,5.5,144,1,Android,2024,944
+Samsung,Snapdragon 8 Gen 2,16,1024,200,4000,6.1,144,0,Android,2023,1408
+Sony,Exynos 2200,12,512,108,6000,6.7,144,1,Android,2021,952
+OnePlus,A17 Bionic,6,64,200,4000,6.7,90,1,Android,2022,822
+Google,Dimensity 9200,12,256,48,4000,6.4,120,1,Android,2018,447
+Realme,Exynos 2200,16,64,200,4000,7.0,144,0,Android,2018,540
+Motorola,Snapdragon 778G,4,128,108,3000,5.5,90,0,Android,2024,929
+Motorola,Dimensity 9200,4,1024,108,4000,7.0,60,1,Android,2021,710
+Sony,Snapdragon 778G,6,128,48,3000,6.7,120,1,Android,2019,357
+Apple,Snapdragon 778G,16,1024,64,6000,6.7,120,0,iOS,2019,916
+Oppo,Dimensity 9200,16,256,200,6000,6.4,90,1,Android,2018,657
+OnePlus,Snapdragon 778G,4,256,108,4500,6.1,90,1,Android,2022,828
+Oppo,Snapdragon 778G,12,64,48,4500,6.7,144,1,Android,2020,521
+OnePlus,Exynos 2200,8,512,200,5000,6.1,144,0,Android,2018,577
+OnePlus,Snapdragon 8 Gen 2,16,1024,64,4000,6.4,90,1,Android,2022,998
+Vivo,Snapdragon 778G,16,512,200,6000,6.4,144,0,Android,2020,791
+Apple,Exynos 2200,16,128,200,3000,7.0,60,0,iOS,2022,1177
+Realme,Snapdragon 778G,16,256,12,6000,7.0,60,0,Android,2021,807
+Samsung,Dimensity 9200,8,512,108,6000,7.0,90,1,Android,2021,797
+Motorola,Exynos 2200,6,64,64,4000,6.1,60,0,Android,2018,330
+Xiaomi,Kirin 9000,12,512,200,3000,6.4,90,0,Android,2023,1041
+Vivo,Dimensity 9200,12,1024,200,4000,6.4,120,0,Android,2019,507
+Xiaomi,Exynos 2200,8,64,48,4500,6.7,120,0,Android,2024,1008
+Samsung,Exynos 2200,8,512,64,5000,7.0,60,0,Android,2019,490
+Realme,Dimensity 9200,8,512,64,3000,6.4,90,1,Android,2023,985
+Motorola,Snapdragon 778G,8,256,48,6000,5.5,90,0,Android,2021,764
+Apple,Dimensity 9200,12,64,200,4500,7.0,120,0,iOS,2018,775
+OnePlus,A17 Bionic,8,256,200,6000,6.7,144,0,Android,2021,920
+Xiaomi,A17 Bionic,8,1024,64,6000,6.7,120,1,Android,2018,595
+Apple,Dimensity 9200,6,512,12,5000,6.1,120,0,iOS,2024,1742
+Google,A17 Bionic,16,64,108,3000,6.4,90,0,Android,2019,426
+Samsung,Snapdragon 778G,12,64,108,6000,6.4,120,1,Android,2022,1132
+Motorola,Kirin 9000,12,128,64,4500,5.5,120,1,Android,2019,432
+Samsung,Dimensity 9200,12,256,108,5000,7.0,120,1,Android,2024,1271
+Xiaomi,Exynos 2200,16,256,48,5000,6.1,144,0,Android,2024,1301
+Oppo,Dimensity 9200,8,512,12,4000,7.0,120,1,Android,2020,517
+Oppo,Dimensity 9200,4,128,108,6000,6.7,60,1,Android,2021,811
+Realme,Dimensity 9200,4,64,64,5000,6.1,60,0,Android,2021,687
+Vivo,Snapdragon 778G,6,256,48,4500,6.7,144,1,Android,2020,594
+Xiaomi,Dimensity 9200,12,256,108,4500,5.5,144,0,Android,2024,1122
+Vivo,Snapdragon 778G,16,128,64,4000,6.1,60,1,Android,2020,520
+Realme,Kirin 9000,4,64,200,4500,6.4,120,1,Android,2023,989
+Oppo,Exynos 2200,4,64,48,5000,5.5,60,1,Android,2024,968
+Realme,Snapdragon 8 Gen 2,8,512,64,3000,6.1,60,0,Android,2021,515
+Google,Exynos 2200,8,512,48,4500,7.0,90,0,Android,2024,1190
+Apple,A17 Bionic,4,1024,48,6000,6.4,90,0,iOS,2021,1207
+Motorola,Kirin 9000,6,512,108,4000,6.4,60,1,Android,2021,674
+Google,A17 Bionic,4,1024,12,4000,6.4,90,0,Android,2018,451
+Realme,Snapdragon 8 Gen 2,6,1024,12,5000,6.1,120,1,Android,2024,1235
+OnePlus,Snapdragon 778G,12,512,64,4000,6.4,144,1,Android,2021,769
+Samsung,Kirin 9000,8,1024,108,5000,7.0,90,1,Android,2021,895
+Apple,Dimensity 9200,6,64,64,4500,6.4,120,0,iOS,2024,1394
+Sony,Kirin 9000,16,1024,12,3000,6.1,60,0,Android,2019,457
+OnePlus,Snapdragon 8 Gen 2,16,64,64,4500,6.7,144,1,Android,2021,648
+Vivo,A17 Bionic,6,128,200,3000,5.5,60,0,Android,2020,491
+Xiaomi,Snapdragon 8 Gen 2,4,1024,12,4500,7.0,90,1,Android,2021,711
+Google,Exynos 2200,4,512,48,4500,7.0,90,0,Android,2018,476
+Samsung,A17 Bionic,6,1024,48,4500,5.5,144,1,Android,2019,520
+Google,Dimensity 9200,8,256,200,5000,6.4,144,1,Android,2021,875
+Realme,Snapdragon 8 Gen 2,12,512,12,5000,7.0,60,1,Android,2024,1206
+Google,A17 Bionic,8,1024,108,4000,6.1,60,0,Android,2018,538
+Realme,Snapdragon 8 Gen 2,4,1024,48,5000,6.4,90,0,Android,2018,556
+OnePlus,Snapdragon 8 Gen 2,6,1024,48,3000,7.0,60,0,Android,2018,444
+Xiaomi,Kirin 9000,12,512,48,6000,5.5,90,1,Android,2022,1099
+Google,Kirin 9000,8,1024,64,3000,6.4,60,0,Android,2024,1107
+Oppo,Exynos 2200,4,256,108,4500,6.4,144,0,Android,2019,456
+OnePlus,Kirin 9000,8,1024,64,6000,6.7,120,0,Android,2023,1444
+Sony,Kirin 9000,8,256,108,3000,5.5,120,0,Android,2018,401
+Realme,Kirin 9000,4,64,12,4500,7.0,60,0,Android,2021,508
+Oppo,Snapdragon 8 Gen 2,12,128,108,4500,6.7,144,1,Android,2022,1023
+Samsung,Snapdragon 778G,16,256,200,4500,6.1,60,1,Android,2022,1151
+OnePlus,Kirin 9000,16,512,48,5000,6.7,90,0,Android,2019,506
+Vivo,Dimensity 9200,12,256,64,4500,5.5,90,1,Android,2024,1049
+Google,A17 Bionic,8,1024,64,5000,6.4,60,1,Android,2024,1233
+Apple,A17 Bionic,8,128,12,5000,5.5,144,1,iOS,2020,946
+Motorola,Snapdragon 778G,6,256,64,6000,6.1,144,1,Android,2022,1132
+Apple,Exynos 2200,12,512,48,6000,6.4,144,0,iOS,2020,1063
+Apple,Kirin 9000,16,128,12,3000,6.1,120,0,iOS,2019,529
+Vivo,Snapdragon 778G,4,1024,48,4500,6.1,144,1,Android,2023,1189
+Motorola,Dimensity 9200,8,128,12,6000,6.7,120,0,Android,2023,1161
+Realme,A17 Bionic,8,64,48,4000,7.0,120,1,Android,2019,451
+Oppo,Snapdragon 778G,8,64,108,4000,7.0,144,1,Android,2023,931
+Apple,Kirin 9000,4,64,48,4500,6.4,120,1,iOS,2021,987
+Sony,Kirin 9000,4,256,108,4000,6.7,120,1,Android,2024,1133
+Sony,Snapdragon 778G,8,1024,200,4000,5.5,60,1,Android,2019,528
+Apple,Kirin 9000,16,1024,12,3000,5.5,90,0,iOS,2020,724
+OnePlus,A17 Bionic,6,64,64,4000,6.4,90,1,Android,2024,985
+Realme,A17 Bionic,12,256,200,5000,6.7,120,1,Android,2019,603
+Xiaomi,Exynos 2200,12,1024,48,5000,5.5,90,1,Android,2022,1169
+Motorola,Dimensity 9200,8,128,12,6000,7.0,120,0,Android,2024,1241
+Xiaomi,Snapdragon 8 Gen 2,6,64,12,4000,7.0,60,1,Android,2021,480
+Oppo,Snapdragon 8 Gen 2,8,256,48,5000,6.7,90,1,Android,2023,999
+Sony,Exynos 2200,4,64,48,4500,7.0,120,0,Android,2019,403
+Apple,A17 Bionic,8,256,108,5000,7.0,60,0,iOS,2023,1399
+Realme,Kirin 9000,8,128,64,5000,6.4,60,0,Android,2019,418
+Realme,Exynos 2200,12,512,12,6000,6.7,144,0,Android,2020,666
+OnePlus,Exynos 2200,12,1024,108,6000,6.1,90,0,Android,2018,659
+Oppo,Dimensity 9200,8,512,12,4500,6.1,60,1,Android,2024,1112
+Google,Snapdragon 8 Gen 2,8,128,48,6000,7.0,144,1,Android,2022,1005
+Motorola,Snapdragon 8 Gen 2,6,512,64,3000,6.1,120,0,Android,2019,367
+Xiaomi,Snapdragon 8 Gen 2,4,64,200,3000,6.4,144,0,Android,2021,622
+Vivo,Kirin 9000,6,64,12,5000,5.5,90,0,Android,2023,825
+Sony,Dimensity 9200,4,256,64,3000,7.0,144,0,Android,2018,362
+Sony,Kirin 9000,6,512,64,3000,5.5,60,0,Android,2019,356
+Vivo,Dimensity 9200,12,64,200,4000,5.5,120,0,Android,2020,558
+OnePlus,A17 Bionic,12,64,12,4000,7.0,120,0,Android,2019,393
+Vivo,A17 Bionic,8,128,12,4500,6.1,90,0,Android,2019,396
+Google,Snapdragon 8 Gen 2,6,64,200,4000,6.4,144,0,Android,2018,418
+Motorola,Snapdragon 778G,12,512,48,3000,5.5,120,0,Android,2018,421
+Vivo,Dimensity 9200,8,64,108,4500,6.7,120,0,Android,2019,496
+Apple,Kirin 9000,4,128,64,4500,7.0,144,1,iOS,2021,999
+Motorola,Dimensity 9200,6,256,64,4000,7.0,60,1,Android,2019,371
+Vivo,Kirin 9000,6,64,64,3000,5.5,144,1,Android,2020,411
+OnePlus,Kirin 9000,4,1024,200,6000,5.5,144,1,Android,2019,615
+Apple,Exynos 2200,4,1024,48,6000,6.4,120,0,iOS,2023,1764
+OnePlus,Exynos 2200,8,256,48,4500,7.0,60,1,Android,2023,1051
+Samsung,Snapdragon 778G,4,512,108,4500,6.1,90,0,Android,2022,1017
+Samsung,Snapdragon 778G,12,1024,64,5000,6.4,144,0,Android,2020,640
+OnePlus,Snapdragon 8 Gen 2,6,64,12,3000,6.4,144,1,Android,2019,350
+Oppo,Exynos 2200,12,128,108,6000,6.1,120,0,Android,2022,1030
+Xiaomi,Exynos 2200,6,64,64,6000,6.7,90,0,Android,2020,610
+Samsung,Kirin 9000,16,128,48,4000,7.0,120,0,Android,2023,879
+Sony,Exynos 2200,8,64,12,6000,6.7,144,1,Android,2024,1325
+Oppo,Dimensity 9200,6,256,200,4000,6.4,60,1,Android,2020,502
+Vivo,Snapdragon 8 Gen 2,16,128,48,3000,7.0,144,1,Android,2021,544
+Samsung,Kirin 9000,4,256,48,5000,6.1,90,0,Android,2024,949
+OnePlus,Exynos 2200,16,128,200,5000,6.7,144,0,Android,2018,559
+Sony,A17 Bionic,6,1024,48,4500,6.7,120,0,Android,2024,1187
+Vivo,Exynos 2200,8,64,12,3000,5.5,144,1,Android,2018,367
+Samsung,A17 Bionic,8,256,200,3000,6.7,60,1,Android,2019,367
+Samsung,A17 Bionic,12,1024,12,4000,7.0,144,1,Android,2022,1028
+Realme,Dimensity 9200,12,256,48,4500,7.0,60,1,Android,2018,455
+Apple,Dimensity 9200,4,128,200,4000,6.7,60,1,iOS,2021,951
+Motorola,Dimensity 9200,8,512,108,3000,6.4,90,0,Android,2021,617
+Google,Snapdragon 8 Gen 2,8,64,12,6000,6.4,90,0,Android,2024,1267
+OnePlus,Exynos 2200,16,512,108,4000,6.1,144,1,Android,2020,657
+Sony,Snapdragon 8 Gen 2,16,256,64,3000,6.7,60,0,Android,2019,388
+OnePlus,Snapdragon 8 Gen 2,4,256,12,3000,7.0,90,1,Android,2021,456
+Motorola,Kirin 9000,8,64,64,3000,6.1,90,0,Android,2024,847
+Motorola,Exynos 2200,4,64,12,6000,6.7,120,1,Android,2018,524
+Vivo,Snapdragon 8 Gen 2,16,1024,200,4500,7.0,60,1,Android,2023,1431
+Sony,Snapdragon 778G,4,128,200,4000,7.0,60,0,Android,2020,461
+Xiaomi,Exynos 2200,12,128,108,3000,6.7,90,1,Android,2023,974
+Samsung,Exynos 2200,4,1024,64,6000,6.4,120,0,Android,2021,908
+Xiaomi,Dimensity 9200,12,128,108,3000,6.7,120,1,Android,2023,814
+Xiaomi,Kirin 9000,8,64,48,4000,6.4,120,0,Android,2022,782
+Samsung,A17 Bionic,16,128,200,3000,5.5,60,1,Android,2022,925
+Realme,Snapdragon 8 Gen 2,8,128,48,4500,6.4,144,0,Android,2019,409
+Sony,Kirin 9000,16,1024,64,4500,6.4,120,1,Android,2021,835
+Xiaomi,Snapdragon 778G,16,64,12,4000,7.0,120,1,Android,2023,1013
+Oppo,Dimensity 9200,12,1024,12,6000,7.0,144,1,Android,2022,1197
+Motorola,Snapdragon 8 Gen 2,12,64,48,6000,5.5,120,1,Android,2019,491
+Sony,Snapdragon 778G,4,512,64,4000,5.5,60,1,Android,2024,927
+Motorola,Kirin 9000,8,1024,108,5000,6.7,120,1,Android,2019,538
+Apple,A17 Bionic,8,512,12,6000,6.7,90,0,iOS,2023,1882
+Google,Kirin 9000,6,512,64,4500,6.4,60,1,Android,2022,1032
+Sony,Dimensity 9200,12,512,108,4500,6.4,120,1,Android,2022,1146
+Xiaomi,A17 Bionic,16,64,64,4000,5.5,120,1,Android,2018,400
+Realme,Kirin 9000,16,1024,108,3000,6.4,90,0,Android,2021,723
+OnePlus,Kirin 9000,6,128,200,4000,7.0,144,1,Android,2022,872
+Xiaomi,Kirin 9000,16,1024,200,6000,6.1,144,0,Android,2022,1310
+Vivo,Kirin 9000,16,128,64,4000,6.7,90,1,Android,2018,401
+Xiaomi,Exynos 2200,12,1024,200,4500,7.0,90,0,Android,2019,534
+Apple,Kirin 9000,16,512,12,4000,5.5,144,0,iOS,2023,1542
+Google,Snapdragon 8 Gen 2,8,512,48,4000,6.1,90,1,Android,2021,713
+Realme,Dimensity 9200,16,512,64,5000,6.1,60,1,Android,2019,498
+Motorola,Exynos 2200,12,64,200,4500,5.5,60,0,Android,2019,471
+Google,Snapdragon 8 Gen 2,16,1024,64,4000,6.7,144,0,Android,2019,570
+Vivo,Snapdragon 778G,16,128,48,5000,7.0,120,1,Android,2020,634
+OnePlus,Snapdragon 8 Gen 2,4,256,200,4500,6.4,90,1,Android,2019,468
+Samsung,Dimensity 9200,8,512,48,3000,6.1,90,0,Android,2020,467
+Motorola,Snapdragon 778G,16,64,64,4000,6.7,144,0,Android,2022,978
+Realme,Dimensity 9200,4,64,200,4500,6.7,120,0,Android,2023,939
+Apple,A17 Bionic,4,512,64,5000,7.0,120,0,iOS,2019,679
+Google,Snapdragon 8 Gen 2,4,1024,200,5000,6.4,90,1,Android,2018,553
+OnePlus,Snapdragon 778G,8,64,64,4000,7.0,144,0,Android,2021,590
+Oppo,Snapdragon 778G,4,64,64,5000,7.0,90,0,Android,2020,512
+Xiaomi,Kirin 9000,16,1024,12,4000,7.0,120,0,Android,2021,793
+Xiaomi,Kirin 9000,4,64,64,5000,6.1,90,0,Android,2020,482
+Samsung,Kirin 9000,6,128,48,5000,7.0,60,1,Android,2023,933
+OnePlus,A17 Bionic,8,1024,200,4000,7.0,144,0,Android,2023,1276
+OnePlus,A17 Bionic,6,64,108,4000,7.0,144,1,Android,2022,953
+Apple,Snapdragon 778G,8,512,108,6000,6.1,90,0,iOS,2022,1803
+Motorola,Kirin 9000,12,64,200,4000,6.4,144,0,Android,2020,568
+Google,Exynos 2200,8,64,12,6000,6.1,144,0,Android,2022,989
+Samsung,Snapdragon 8 Gen 2,8,128,200,4000,5.5,90,1,Android,2019,491
+Realme,A17 Bionic,12,256,200,4500,6.4,144,1,Android,2022,1085
+Vivo,A17 Bionic,8,1024,48,6000,6.1,120,1,Android,2021,810
+Oppo,Exynos 2200,16,256,200,6000,6.7,60,1,Android,2023,1259
+OnePlus,Exynos 2200,4,512,12,4000,5.5,120,0,Android,2020,496
+Samsung,A17 Bionic,16,256,200,5000,5.5,144,0,Android,2022,1035
+Oppo,Kirin 9000,8,256,108,4000,6.7,144,0,Android,2024,1097
+Motorola,Kirin 9000,12,128,48,5000,7.0,144,0,Android,2020,603
+Sony,Kirin 9000,4,256,108,4500,5.5,60,1,Android,2019,443
+Motorola,Dimensity 9200,4,64,200,4500,5.5,120,0,Android,2023,1078
+Samsung,Dimensity 9200,16,512,48,5000,6.1,60,0,Android,2018,498
+Xiaomi,Kirin 9000,4,512,108,3000,6.4,144,0,Android,2018,438
+Xiaomi,Kirin 9000,6,128,108,3000,6.1,90,0,Android,2022,630
+Oppo,Dimensity 9200,6,64,48,3000,6.1,144,1,Android,2020,498
+Xiaomi,Kirin 9000,6,64,108,6000,5.5,90,1,Android,2024,1203
+OnePlus,Snapdragon 8 Gen 2,16,512,108,4000,6.7,144,1,Android,2019,541
+Apple,Dimensity 9200,8,1024,48,3000,6.4,60,0,iOS,2021,806
+Realme,Dimensity 9200,8,128,108,3000,6.1,60,1,Android,2023,794
+Google,Exynos 2200,4,64,64,3000,5.5,144,0,Android,2022,772
+Oppo,Kirin 9000,12,512,48,3000,6.4,60,0,Android,2019,391
+Motorola,Kirin 9000,4,1024,12,4000,6.1,90,1,Android,2018,457
+Motorola,Dimensity 9200,6,1024,48,4000,5.5,144,0,Android,2020,662
+Motorola,Dimensity 9200,6,1024,48,3000,7.0,90,1,Android,2024,1061
+Vivo,Kirin 9000,12,1024,12,4000,7.0,144,1,Android,2021,757
+Oppo,Snapdragon 778G,12,1024,48,4500,6.1,144,1,Android,2020,645
+Oppo,Dimensity 9200,6,512,108,3000,6.7,144,1,Android,2018,381
+Apple,Kirin 9000,16,64,48,5000,6.7,144,1,iOS,2022,1676
+Samsung,Kirin 9000,12,128,64,4500,6.1,60,0,Android,2019,451
+Realme,Exynos 2200,6,1024,64,4000,5.5,90,1,Android,2021,638
+Motorola,Snapdragon 8 Gen 2,16,128,48,4500,6.1,60,0,Android,2024,1043
+Realme,Snapdragon 8 Gen 2,12,128,108,4500,7.0,60,0,Android,2020,552
+Motorola,Kirin 9000,8,256,108,4000,6.4,120,1,Android,2021,642
+Oppo,Snapdragon 8 Gen 2,4,1024,64,6000,6.4,120,0,Android,2022,1230
+Xiaomi,Snapdragon 778G,12,128,108,6000,6.4,144,0,Android,2020,662
+Apple,Dimensity 9200,4,512,64,6000,6.4,90,1,iOS,2023,1857
+Motorola,Snapdragon 778G,4,128,200,4000,6.7,90,0,Android,2020,494
+Samsung,Dimensity 9200,6,512,64,5000,7.0,60,1,Android,2018,444
+Motorola,Snapdragon 778G,4,64,64,3000,5.5,120,1,Android,2022,728
+Realme,Kirin 9000,16,512,108,3000,7.0,120,1,Android,2022,902
+Xiaomi,A17 Bionic,4,256,108,6000,5.5,60,1,Android,2020,659
+Apple,Kirin 9000,4,128,200,6000,5.5,60,0,iOS,2021,1041
+Xiaomi,Snapdragon 778G,4,512,64,5000,6.7,90,0,Android,2024,1116
+Google,Snapdragon 8 Gen 2,12,512,48,6000,7.0,144,1,Android,2021,926
+OnePlus,Kirin 9000,6,256,108,3000,5.5,90,1,Android,2021,537
+Google,Kirin 9000,12,1024,64,4500,6.4,90,1,Android,2022,1064
+OnePlus,Kirin 9000,8,128,48,4000,6.7,120,1,Android,2019,383
+Apple,Exynos 2200,6,64,108,3000,6.1,90,0,iOS,2024,1227
+Sony,Snapdragon 778G,6,128,200,5000,7.0,90,1,Android,2024,1289
+Xiaomi,Snapdragon 8 Gen 2,16,1024,200,4500,6.1,60,0,Android,2019,530
+Oppo,Snapdragon 8 Gen 2,12,256,48,4500,6.1,90,1,Android,2024,1000
+Oppo,Exynos 2200,8,128,200,3000,5.5,120,1,Android,2022,803
+Xiaomi,Exynos 2200,12,64,108,4000,7.0,60,1,Android,2024,994
+Vivo,A17 Bionic,4,128,200,4500,6.1,90,1,Android,2023,1032
+Motorola,Snapdragon 778G,16,128,108,3000,6.7,144,1,Android,2024,1066
+Realme,A17 Bionic,6,512,12,6000,5.5,120,0,Android,2021,797
+Vivo,Snapdragon 778G,8,64,12,5000,6.4,60,1,Android,2020,519
+Samsung,Kirin 9000,8,1024,48,6000,6.7,90,0,Android,2021,875
+Motorola,Kirin 9000,16,256,64,5000,6.7,90,0,Android,2022,1074
+Realme,Dimensity 9200,16,1024,108,4000,6.4,120,0,Android,2023,1273
+Realme,Kirin 9000,8,128,12,4500,5.5,90,1,Android,2018,439
+Apple,Snapdragon 8 Gen 2,12,1024,200,4500,6.7,144,1,iOS,2023,1935
+Samsung,Snapdragon 8 Gen 2,4,128,108,5000,5.5,60,1,Android,2022,877
+Xiaomi,A17 Bionic,12,256,48,6000,7.0,144,0,Android,2020,684
+Realme,Snapdragon 778G,12,1024,48,4000,6.1,60,0,Android,2024,1165
+OnePlus,Dimensity 9200,4,64,12,4000,6.1,120,0,Android,2023,761
+Xiaomi,A17 Bionic,6,1024,48,4000,6.1,90,0,Android,2019,456
+Apple,Snapdragon 778G,16,1024,12,5000,7.0,90,0,iOS,2024,1794
+Google,Snapdragon 778G,16,128,64,4000,6.7,120,1,Android,2022,923
+Google,A17 Bionic,8,64,200,4500,6.7,120,1,Android,2021,796
+OnePlus,A17 Bionic,16,256,64,4000,7.0,144,0,Android,2018,440
+Realme,Dimensity 9200,16,1024,64,4000,6.1,144,1,Android,2021,733
+Google,Exynos 2200,6,1024,108,4500,6.7,144,0,Android,2023,1146
+OnePlus,A17 Bionic,16,128,108,3000,6.7,90,1,Android,2018,378
+Apple,Snapdragon 8 Gen 2,16,512,64,3000,7.0,60,0,iOS,2018,642
+Oppo,Kirin 9000,16,1024,108,4000,6.7,60,0,Android,2024,1276
+Apple,Kirin 9000,4,256,48,5000,6.1,120,1,iOS,2018,691
+Xiaomi,Exynos 2200,4,256,64,4000,6.7,60,1,Android,2022,705
+Oppo,Snapdragon 8 Gen 2,4,128,12,4000,6.1,90,1,Android,2019,348
+Samsung,Snapdragon 778G,16,1024,48,5000,6.4,120,0,Android,2020,747
+Realme,Dimensity 9200,8,64,12,3000,6.4,90,1,Android,2022,698
+Realme,Dimensity 9200,16,128,108,3000,5.5,144,1,Android,2018,378
+OnePlus,Kirin 9000,6,128,64,3000,6.7,90,1,Android,2018,356
+Xiaomi,Dimensity 9200,4,64,64,3000,6.4,90,0,Android,2024,760
+Xiaomi,Snapdragon 8 Gen 2,12,256,108,4500,6.4,120,0,Android,2021,738
+Motorola,Snapdragon 8 Gen 2,4,1024,48,4000,6.7,60,0,Android,2020,490
+Samsung,Kirin 9000,6,512,48,4500,7.0,60,0,Android,2018,468
+Vivo,Exynos 2200,6,256,108,6000,7.0,120,0,Android,2021,764
+Samsung,Kirin 9000,8,256,108,4000,5.5,120,1,Android,2023,1109
+Samsung,Snapdragon 8 Gen 2,12,512,108,5000,6.4,144,1,Android,2024,1205
+Motorola,Snapdragon 778G,16,1024,108,4000,6.7,120,0,Android,2018,495
+OnePlus,Snapdragon 8 Gen 2,6,128,48,5000,5.5,144,1,Android,2018,436
+OnePlus,Exynos 2200,16,128,64,4500,6.1,60,0,Android,2019,455
+Realme,Snapdragon 8 Gen 2,6,64,64,5000,7.0,120,0,Android,2024,1173
+Oppo,Dimensity 9200,8,512,108,6000,6.1,60,0,Android,2022,1157
+Apple,Dimensity 9200,6,256,12,6000,6.1,120,1,iOS,2020,873
+Vivo,Dimensity 9200,8,128,108,4000,6.7,90,1,Android,2021,705
+Realme,Snapdragon 8 Gen 2,6,128,12,4500,6.1,90,1,Android,2024,976
+Sony,Dimensity 9200,12,1024,12,4500,6.1,90,1,Android,2023,1252
+Samsung,Snapdragon 778G,8,128,108,4000,6.1,120,1,Android,2020,563
+Xiaomi,Exynos 2200,16,64,12,3000,6.1,60,0,Android,2019,311
+OnePlus,Kirin 9000,6,128,108,6000,6.1,90,0,Android,2023,1056
+Apple,A17 Bionic,8,1024,200,3000,6.4,120,1,iOS,2018,770
+Sony,Exynos 2200,12,512,108,4000,6.7,144,1,Android,2023,1010
+Oppo,Exynos 2200,8,256,200,3000,6.4,90,0,Android,2020,473
+Sony,Dimensity 9200,16,128,108,4000,5.5,90,1,Android,2023,944
+Apple,Snapdragon 778G,16,1024,108,6000,6.1,120,1,iOS,2022,2020
+Realme,Dimensity 9200,16,1024,108,4000,6.4,144,1,Android,2019,601
+Xiaomi,Snapdragon 8 Gen 2,8,128,64,6000,5.5,90,0,Android,2019,489
+Samsung,Snapdragon 778G,8,128,108,3000,6.7,60,0,Android,2021,501
+Apple,Exynos 2200,6,128,48,4500,6.7,90,1,iOS,2019,652
+Xiaomi,A17 Bionic,4,256,48,5000,6.4,90,1,Android,2019,411
+Samsung,Exynos 2200,6,512,12,5000,6.7,144,1,Android,2020,631
+Realme,A17 Bionic,8,128,64,3000,5.5,144,0,Android,2018,336
+Xiaomi,A17 Bionic,4,512,48,4500,6.1,90,0,Android,2019,396
+Vivo,Exynos 2200,6,64,12,5000,6.7,144,1,Android,2023,948
+Samsung,Snapdragon 778G,12,128,48,4500,6.7,120,0,Android,2022,811
+Apple,Kirin 9000,12,128,108,4500,5.5,144,0,iOS,2023,1423
+Xiaomi,Kirin 9000,16,64,48,5000,6.1,60,1,Android,2021,717
+Realme,Kirin 9000,8,512,12,6000,5.5,120,0,Android,2021,761
+Motorola,A17 Bionic,8,256,48,4500,5.5,120,1,Android,2023,1092
+OnePlus,Snapdragon 778G,8,1024,64,4000,6.4,120,1,Android,2019,564
+Sony,Exynos 2200,12,64,48,3000,5.5,90,1,Android,2023,840
+OnePlus,Exynos 2200,16,64,108,4500,6.4,120,0,Android,2019,507
+Vivo,Snapdragon 8 Gen 2,12,128,64,4000,5.5,144,1,Android,2018,426
+Samsung,Kirin 9000,6,1024,48,4500,6.1,90,1,Android,2024,1126
+Google,Snapdragon 778G,12,512,48,6000,5.5,144,0,Android,2018,604
+Oppo,A17 Bionic,12,1024,12,3000,5.5,120,1,Android,2021,726
+Motorola,A17 Bionic,16,128,200,4500,7.0,90,0,Android,2022,1115
+Oppo,Kirin 9000,8,1024,108,5000,6.4,120,1,Android,2020,731
+Samsung,Dimensity 9200,16,256,200,6000,6.1,90,1,Android,2019,642
+Sony,Kirin 9000,6,128,48,4500,5.5,120,0,Android,2022,788
+Apple,A17 Bionic,16,512,200,5000,7.0,144,0,iOS,2020,1161
+OnePlus,Dimensity 9200,6,256,64,5000,5.5,60,0,Android,2021,642
+Motorola,Kirin 9000,16,1024,48,4500,5.5,90,0,Android,2023,1074
+OnePlus,Snapdragon 8 Gen 2,12,64,12,3000,7.0,120,0,Android,2022,715
+Oppo,Snapdragon 8 Gen 2,16,256,64,4500,6.1,90,1,Android,2022,1051
+Apple,Snapdragon 8 Gen 2,8,128,64,5000,6.4,120,0,iOS,2019,635
+Sony,A17 Bionic,16,512,200,5000,7.0,60,0,Android,2018,571
+Oppo,Snapdragon 8 Gen 2,8,64,48,4500,5.5,120,0,Android,2024,974
+Realme,Exynos 2200,12,1024,64,5000,6.4,60,1,Android,2019,519
+Xiaomi,Snapdragon 8 Gen 2,16,512,48,4500,7.0,144,0,Android,2019,541
+Xiaomi,Kirin 9000,4,64,48,3000,7.0,90,0,Android,2020,403
+Xiaomi,Snapdragon 778G,6,256,64,6000,6.7,144,0,Android,2021,796
+OnePlus,Exynos 2200,6,512,12,5000,6.1,90,1,Android,2022,1040
+OnePlus,Dimensity 9200,8,1024,108,4000,6.1,120,1,Android,2024,1358
+Vivo,Dimensity 9200,6,256,64,5000,5.5,120,1,Android,2024,1144
+Sony,Snapdragon 778G,8,1024,108,5000,7.0,90,1,Android,2023,1357
+Vivo,Exynos 2200,12,256,48,3000,6.7,90,1,Android,2024,932
+Xiaomi,Exynos 2200,4,256,200,6000,6.4,90,1,Android,2021,776
+Vivo,A17 Bionic,12,512,64,5000,5.5,120,1,Android,2018,496
+Vivo,Snapdragon 778G,12,1024,12,4000,6.7,144,0,Android,2020,577
+Realme,Snapdragon 778G,16,512,64,6000,6.4,144,1,Android,2018,559
+Xiaomi,Snapdragon 778G,16,1024,48,4000,6.1,144,1,Android,2019,594
+Realme,Dimensity 9200,6,1024,48,3000,6.7,90,0,Android,2024,915
+Vivo,Snapdragon 778G,16,1024,200,3000,7.0,120,1,Android,2024,1291
+Apple,Exynos 2200,8,64,48,6000,6.4,60,0,iOS,2024,1732
+Oppo,Snapdragon 8 Gen 2,8,64,64,3000,6.4,90,1,Android,2019,314
+Vivo,Dimensity 9200,16,128,108,4500,5.5,120,1,Android,2023,1190
+Sony,Snapdragon 8 Gen 2,4,64,64,5000,6.7,144,0,Android,2020,529
+Motorola,A17 Bionic,12,1024,48,5000,7.0,60,0,Android,2020,701
+Sony,Dimensity 9200,6,256,200,5000,6.4,60,1,Android,2021,728
+Samsung,Kirin 9000,8,512,108,3000,6.4,144,1,Android,2024,1079
+Oppo,A17 Bionic,6,256,200,6000,6.1,120,0,Android,2019,555
+Motorola,Exynos 2200,12,128,108,3000,5.5,144,0,Android,2018,345
+Google,Snapdragon 8 Gen 2,6,512,64,6000,6.4,120,1,Android,2018,589
+Xiaomi,Snapdragon 8 Gen 2,8,512,64,4000,6.7,144,1,Android,2024,1203
+OnePlus,Dimensity 9200,8,1024,200,3000,6.1,120,0,Android,2020,641
+OnePlus,Exynos 2200,16,128,12,3000,6.1,120,1,Android,2022,694
+Vivo,Dimensity 9200,6,64,12,5000,6.1,60,0,Android,2020,500
+Oppo,Kirin 9000,4,256,108,3000,7.0,60,1,Android,2024,895
+Oppo,A17 Bionic,4,64,48,3000,6.7,90,1,Android,2023,736
+Samsung,Snapdragon 778G,12,256,64,6000,6.4,144,0,Android,2024,1257
+Xiaomi,Kirin 9000,12,256,108,4500,5.5,120,0,Android,2018,526
+Google,Snapdragon 8 Gen 2,16,64,48,4500,6.1,60,0,Android,2024,1021
+Motorola,Dimensity 9200,16,64,200,6000,7.0,120,0,Android,2023,1294
+Vivo,Kirin 9000,6,512,12,4000,6.4,144,1,Android,2019,396
+Sony,Dimensity 9200,8,256,200,5000,6.4,120,0,Android,2019,518
+Xiaomi,A17 Bionic,16,256,200,4000,5.5,60,1,Android,2022,939
+Google,Snapdragon 778G,8,64,64,5000,6.1,90,1,Android,2024,998
+Oppo,Snapdragon 8 Gen 2,6,1024,108,4000,6.7,90,1,Android,2021,724
+Vivo,A17 Bionic,16,64,48,4000,6.4,120,0,Android,2018,409
+Motorola,Exynos 2200,4,256,200,6000,6.7,144,0,Android,2020,654
+Oppo,Exynos 2200,12,256,200,6000,6.7,60,1,Android,2024,1463
+Apple,Kirin 9000,12,128,108,6000,6.1,120,0,iOS,2020,982
+Oppo,Kirin 9000,16,128,108,3000,5.5,144,1,Android,2022,887
+Samsung,Kirin 9000,6,512,48,4500,6.1,144,1,Android,2020,645
+Apple,Snapdragon 778G,12,256,48,5000,5.5,144,1,iOS,2019,792
+Motorola,Kirin 9000,8,1024,108,3000,7.0,60,1,Android,2018,401
+Motorola,Exynos 2200,8,512,12,6000,6.1,90,0,Android,2024,1243
+OnePlus,Snapdragon 778G,16,512,12,4000,6.4,144,0,Android,2022,930
+Realme,Snapdragon 778G,12,64,108,5000,6.4,144,1,Android,2023,1156
+Apple,Kirin 9000,12,64,200,4500,6.4,90,1,iOS,2019,834
+Vivo,Snapdragon 778G,6,128,12,3000,6.7,144,1,Android,2018,379
+Google,Kirin 9000,12,1024,12,3000,5.5,144,1,Android,2024,1098
+OnePlus,A17 Bionic,8,128,64,4000,6.1,144,0,Android,2022,933
+Realme,Snapdragon 8 Gen 2,4,512,12,5000,6.1,90,0,Android,2021,613
+Realme,Snapdragon 8 Gen 2,12,128,108,6000,6.7,120,0,Android,2019,576
+Motorola,A17 Bionic,16,512,64,4000,6.4,144,0,Android,2020,617
+OnePlus,A17 Bionic,12,512,12,4000,6.4,90,0,Android,2018,468
+Sony,Dimensity 9200,8,1024,64,5000,6.4,60,0,Android,2022,992
+OnePlus,Exynos 2200,6,128,64,4000,5.5,60,0,Android,2023,839
+OnePlus,Dimensity 9200,12,512,200,3000,7.0,120,1,Android,2020,522
+Vivo,Kirin 9000,6,512,108,6000,6.4,120,1,Android,2022,1113
+Apple,Snapdragon 778G,8,1024,48,4500,6.7,90,1,iOS,2023,1863
+Sony,Kirin 9000,4,256,108,4000,7.0,120,0,Android,2020,470
+Oppo,Exynos 2200,8,1024,64,4000,6.4,60,0,Android,2018,525
+Vivo,Kirin 9000,4,256,64,4500,6.4,60,1,Android,2018,419
+OnePlus,Kirin 9000,4,512,12,6000,6.7,60,1,Android,2019,503
+Realme,Dimensity 9200,12,128,48,6000,5.5,60,1,Android,2019,531
+Realme,Snapdragon 778G,8,512,48,5000,6.1,120,1,Android,2020,660
+Google,Snapdragon 8 Gen 2,16,64,200,3000,6.4,90,0,Android,2018,466
+Motorola,Snapdragon 8 Gen 2,16,256,108,4500,7.0,120,1,Android,2022,1095
+OnePlus,Snapdragon 778G,6,512,48,4000,6.7,144,0,Android,2021,567
+Oppo,Exynos 2200,16,256,48,6000,6.4,144,0,Android,2020,689
+Apple,Dimensity 9200,16,512,200,4500,5.5,144,0,iOS,2023,1759
+Motorola,Exynos 2200,12,512,48,4500,5.5,120,0,Android,2018,516
+Motorola,Kirin 9000,12,128,200,5000,7.0,120,0,Android,2023,1267
+Vivo,Dimensity 9200,4,128,200,6000,6.1,120,1,Android,2023,1286
+Sony,Snapdragon 8 Gen 2,8,64,12,3000,6.1,90,0,Android,2020,410
+Google,Snapdragon 8 Gen 2,6,64,48,5000,6.7,90,0,Android,2022,949
+Motorola,Kirin 9000,6,256,108,3000,7.0,90,0,Android,2023,808
+Oppo,Exynos 2200,4,512,48,4000,6.1,144,1,Android,2024,1122
+Motorola,Dimensity 9200,12,512,12,4000,7.0,120,0,Android,2024,935
+OnePlus,Dimensity 9200,4,128,48,3000,6.1,60,1,Android,2022,725
+Vivo,Snapdragon 778G,12,512,48,4500,6.4,120,1,Android,2024,1197
+Sony,Dimensity 9200,12,1024,64,5000,6.1,60,1,Android,2018,507
+Xiaomi,Kirin 9000,4,512,200,5000,6.7,90,0,Android,2022,985
+Apple,Exynos 2200,16,512,12,6000,5.5,90,1,iOS,2023,2035
+Sony,A17 Bionic,8,64,200,4000,5.5,144,0,Android,2021,705
+Sony,Kirin 9000,16,256,200,5000,6.4,90,1,Android,2024,1286
+Xiaomi,A17 Bionic,16,256,108,6000,6.7,60,1,Android,2020,634
+Apple,Snapdragon 8 Gen 2,16,128,200,5000,6.1,144,1,iOS,2021,1255
+Oppo,Kirin 9000,16,64,48,6000,7.0,60,1,Android,2024,1377
+OnePlus,Snapdragon 778G,8,512,64,5000,5.5,90,0,Android,2022,992
+Xiaomi,Dimensity 9200,4,512,12,3000,6.1,120,1,Android,2023,926
+Realme,Kirin 9000,12,256,48,4500,6.4,144,1,Android,2023,1107
+OnePlus,A17 Bionic,4,128,48,4000,6.7,144,0,Android,2022,904
+Apple,Snapdragon 8 Gen 2,8,128,12,5000,6.1,120,0,iOS,2024,1747
+Sony,Snapdragon 8 Gen 2,16,128,64,6000,5.5,90,1,Android,2020,729
+Realme,Exynos 2200,6,64,200,4500,6.1,90,0,Android,2023,1058
+Apple,Snapdragon 8 Gen 2,8,256,12,3000,7.0,90,1,iOS,2019,500
+Sony,Snapdragon 778G,4,512,48,4500,5.5,90,1,Android,2024,1165
+Vivo,Dimensity 9200,12,1024,64,5000,7.0,60,1,Android,2021,796
+Sony,A17 Bionic,12,128,200,6000,6.7,90,0,Android,2020,706
+Sony,Dimensity 9200,12,256,64,4500,6.1,144,0,Android,2019,527
+OnePlus,Exynos 2200,16,512,108,4500,7.0,120,0,Android,2021,715
+Apple,Exynos 2200,8,64,48,5000,5.5,144,0,iOS,2023,1419
+Vivo,Dimensity 9200,4,128,200,4500,6.4,120,1,Android,2020,602
+Oppo,Exynos 2200,4,128,108,4500,5.5,144,0,Android,2022,978
+Oppo,Exynos 2200,6,512,48,4000,6.1,90,1,Android,2023,1043
+Apple,Snapdragon 8 Gen 2,4,256,12,4000,6.1,144,0,iOS,2020,766
+Motorola,Dimensity 9200,8,128,48,4500,6.4,90,0,Android,2024,1057
+OnePlus,Exynos 2200,8,64,64,6000,6.4,90,0,Android,2022,1088
+Google,Snapdragon 778G,6,1024,200,5000,6.7,90,1,Android,2024,1410
+Xiaomi,Exynos 2200,8,64,48,6000,7.0,60,0,Android,2018,459
+Oppo,Dimensity 9200,6,256,48,3000,7.0,144,1,Android,2020,506
+Motorola,Exynos 2200,8,256,12,5000,6.4,144,1,Android,2021,625
+Oppo,Snapdragon 778G,16,1024,12,4500,5.5,144,1,Android,2022,1163
+Motorola,Kirin 9000,16,1024,48,5000,6.1,90,0,Android,2022,1204
+Apple,Exynos 2200,6,64,200,3000,7.0,144,1,iOS,2020,735
+Apple,Dimensity 9200,4,256,48,5000,6.7,90,0,iOS,2018,699
+Realme,Snapdragon 8 Gen 2,8,256,200,4500,5.5,144,0,Android,2023,1035
+Samsung,Kirin 9000,12,256,64,4000,6.4,144,1,Android,2019,424
+Sony,Dimensity 9200,6,64,108,4000,5.5,60,0,Android,2021,603
+Realme,Snapdragon 778G,6,512,64,4000,7.0,120,1,Android,2020,590
+Google,A17 Bionic,16,1024,108,4500,6.4,60,0,Android,2018,508
+OnePlus,Snapdragon 778G,4,128,12,3000,6.7,90,1,Android,2023,816
+Realme,Exynos 2200,12,1024,12,4000,6.1,90,1,Android,2020,565
+Motorola,Dimensity 9200,8,512,200,4500,6.4,60,1,Android,2021,679
+Apple,Kirin 9000,4,1024,64,4500,6.7,60,0,iOS,2019,751
+Realme,Snapdragon 778G,6,256,64,5000,6.7,120,1,Android,2018,450
+Google,Dimensity 9200,4,1024,108,6000,6.4,144,1,Android,2021,866
+Oppo,Dimensity 9200,4,1024,108,5000,5.5,90,0,Android,2024,1212
+Realme,Kirin 9000,4,64,108,6000,6.1,90,0,Android,2018,513
+Sony,A17 Bionic,6,1024,200,5000,6.4,90,1,Android,2021,890
+Xiaomi,Exynos 2200,12,64,48,4000,5.5,144,0,Android,2020,483
+OnePlus,Exynos 2200,6,128,48,3000,6.7,144,1,Android,2022,824
+Vivo,Kirin 9000,4,64,200,4500,6.4,90,0,Android,2019,464
+Apple,Dimensity 9200,4,1024,48,6000,6.7,60,1,iOS,2021,1244
+Xiaomi,Snapdragon 8 Gen 2,16,64,64,3000,6.1,120,1,Android,2023,945
+OnePlus,Dimensity 9200,16,1024,108,4500,6.4,120,1,Android,2022,1125
+OnePlus,Snapdragon 778G,8,64,64,3000,7.0,120,0,Android,2023,856
+OnePlus,Dimensity 9200,8,64,48,5000,7.0,144,1,Android,2019,454
+Motorola,Snapdragon 778G,8,256,12,3000,6.4,60,0,Android,2020,464
+Xiaomi,Snapdragon 8 Gen 2,16,64,64,3000,6.7,90,1,Android,2020,510
+OnePlus,Snapdragon 778G,16,64,48,4000,6.7,144,1,Android,2021,704
+Sony,Dimensity 9200,12,128,64,5000,6.1,120,1,Android,2024,1280
+Google,Snapdragon 778G,16,256,200,6000,6.4,120,0,Android,2021,802
+Google,A17 Bionic,6,64,108,5000,6.7,120,1,Android,2023,1071
+Motorola,A17 Bionic,16,512,200,5000,6.7,144,0,Android,2021,909
+Sony,Kirin 9000,12,256,12,6000,6.1,120,1,Android,2021,790
+Motorola,Snapdragon 778G,4,64,48,4000,7.0,120,0,Android,2022,715
+Sony,Snapdragon 778G,8,64,108,4000,7.0,120,0,Android,2020,560
+Samsung,Snapdragon 8 Gen 2,16,1024,108,4500,7.0,120,1,Android,2021,792
+OnePlus,Exynos 2200,6,128,12,4000,5.5,120,0,Android,2018,333
+Motorola,Snapdragon 8 Gen 2,8,512,12,5000,5.5,120,1,Android,2024,1167
+Google,Dimensity 9200,16,1024,200,5000,6.7,120,1,Android,2022,1375
+Apple,Snapdragon 8 Gen 2,8,1024,200,4000,5.5,60,0,iOS,2020,884
+Oppo,A17 Bionic,12,64,108,4500,6.4,90,1,Android,2018,437
+Vivo,Kirin 9000,12,256,64,3000,6.4,60,0,Android,2023,765
+Vivo,A17 Bionic,16,512,12,6000,6.1,120,1,Android,2019,531
+Samsung,Exynos 2200,16,512,64,4000,7.0,60,1,Android,2019,424
+Oppo,Kirin 9000,12,512,108,4500,5.5,120,1,Android,2022,1029
+Google,Snapdragon 778G,8,512,12,4000,7.0,120,1,Android,2022,952
+Xiaomi,Snapdragon 778G,4,256,48,5000,6.1,120,1,Android,2018,496
+Apple,A17 Bionic,4,256,108,5000,6.4,144,0,iOS,2020,833
+Sony,Exynos 2200,6,64,12,5000,7.0,144,0,Android,2019,403
+Realme,A17 Bionic,16,512,200,6000,6.1,120,1,Android,2023,1494
+Samsung,Snapdragon 8 Gen 2,12,512,12,3000,6.4,90,0,Android,2019,347
+Sony,Exynos 2200,12,1024,64,5000,6.4,144,0,Android,2019,530
+Google,Snapdragon 8 Gen 2,8,64,12,5000,5.5,120,0,Android,2018,471
+Motorola,Kirin 9000,16,1024,108,6000,6.1,60,0,Android,2019,597
+Vivo,Kirin 9000,8,1024,48,4000,6.4,120,0,Android,2021,627
+Samsung,Snapdragon 8 Gen 2,16,256,64,3000,5.5,90,1,Android,2018,408
+Motorola,Snapdragon 778G,12,512,200,6000,6.1,60,1,Android,2022,1220
+Sony,Kirin 9000,16,1024,48,4000,6.4,60,0,Android,2022,905
+Xiaomi,Snapdragon 8 Gen 2,16,1024,108,4500,6.7,90,1,Android,2019,581
+Xiaomi,A17 Bionic,4,128,48,3000,6.7,120,0,Android,2021,531
+Samsung,Snapdragon 778G,6,64,64,6000,5.5,144,1,Android,2020,617
+Sony,Exynos 2200,4,128,12,5000,6.7,144,0,Android,2018,468
+Sony,Kirin 9000,12,1024,108,4000,6.4,60,0,Android,2019,525
+Xiaomi,Snapdragon 778G,8,512,64,4000,6.4,60,1,Android,2023,895
+Samsung,Snapdragon 778G,4,64,200,3000,5.5,60,1,Android,2020,478
+Oppo,Dimensity 9200,12,64,48,4000,6.7,120,0,Android,2018,434
+Xiaomi,Dimensity 9200,16,128,48,4500,5.5,144,1,Android,2024,1142
+Samsung,Dimensity 9200,6,64,48,4500,6.4,120,0,Android,2023,895
+Google,Dimensity 9200,16,1024,108,6000,5.5,120,1,Android,2020,852
+Google,Snapdragon 8 Gen 2,8,512,12,5000,7.0,144,0,Android,2018,522
+OnePlus,Kirin 9000,8,512,48,5000,6.4,60,0,Android,2022,1016
+Realme,Kirin 9000,12,256,200,3000,6.4,144,0,Android,2023,925
+OnePlus,A17 Bionic,6,256,200,4000,6.1,60,1,Android,2023,1066
+Samsung,A17 Bionic,8,128,12,3000,6.4,120,1,Android,2020,465
+Xiaomi,Snapdragon 778G,12,256,64,3000,7.0,144,1,Android,2021,537
+OnePlus,Snapdragon 778G,8,128,108,4500,7.0,120,0,Android,2023,1070
+Xiaomi,Exynos 2200,4,128,108,3000,5.5,144,1,Android,2021,598
+Realme,Snapdragon 8 Gen 2,16,128,64,4500,6.4,120,0,Android,2021,622
+OnePlus,Exynos 2200,4,128,48,4000,5.5,120,0,Android,2022,851
+Samsung,Exynos 2200,4,1024,64,3000,6.1,60,1,Android,2023,1025
+Apple,Exynos 2200,4,128,12,4500,6.1,144,0,iOS,2019,562
+Vivo,Snapdragon 778G,12,128,12,6000,5.5,60,0,Android,2021,705
+Samsung,Dimensity 9200,4,512,200,5000,6.4,90,0,Android,2022,952
+OnePlus,Kirin 9000,8,256,108,3000,6.4,90,1,Android,2022,893
+Oppo,Dimensity 9200,16,512,108,4500,5.5,90,0,Android,2019,475
+Google,Kirin 9000,8,128,64,4500,7.0,144,0,Android,2018,409
+Oppo,Snapdragon 8 Gen 2,8,128,48,5000,7.0,120,1,Android,2020,643
+Apple,Snapdragon 778G,16,64,48,5000,6.7,144,0,iOS,2020,1000
+Sony,Exynos 2200,4,256,12,4500,6.1,144,1,Android,2020,517
+Oppo,Kirin 9000,12,128,48,6000,5.5,144,0,Android,2022,982
+Realme,Snapdragon 778G,16,1024,48,3000,5.5,90,0,Android,2018,424
+Google,Snapdragon 8 Gen 2,12,64,108,6000,7.0,60,1,Android,2021,709
+Motorola,Exynos 2200,6,1024,108,5000,6.4,90,0,Android,2021,832
+Oppo,Kirin 9000,6,64,108,5000,6.7,144,0,Android,2019,457
+Apple,Dimensity 9200,6,512,48,6000,7.0,60,1,iOS,2021,1155
+Motorola,Exynos 2200,16,512,200,6000,6.4,144,0,Android,2022,1221
+OnePlus,Dimensity 9200,16,512,200,4500,5.5,144,1,Android,2021,880
+Google,Kirin 9000,12,64,12,4000,7.0,90,0,Android,2024,797
+Realme,Kirin 9000,4,256,200,4000,5.5,90,0,Android,2018,398
+Xiaomi,Snapdragon 778G,6,64,48,5000,6.7,120,1,Android,2023,960
+Samsung,Dimensity 9200,16,512,108,4500,6.7,60,0,Android,2018,478
+Realme,Snapdragon 8 Gen 2,16,1024,64,4500,6.4,144,1,Android,2018,525
+Vivo,Snapdragon 778G,12,256,48,5000,5.5,144,0,Android,2018,463
+Samsung,Snapdragon 8 Gen 2,16,256,12,4000,6.1,144,1,Android,2021,680
+Apple,Kirin 9000,16,128,12,5000,5.5,60,0,iOS,2021,976
+Oppo,Dimensity 9200,16,512,108,3000,7.0,120,1,Android,2022,866
+Samsung,Snapdragon 778G,8,512,64,4500,6.4,90,0,Android,2024,1137
+Google,A17 Bionic,12,128,48,4000,6.1,120,0,Android,2024,955
+Oppo,A17 Bionic,8,256,108,6000,7.0,90,1,Android,2019,574
+Oppo,Dimensity 9200,8,256,64,4500,6.4,144,1,Android,2023,988
+Vivo,Dimensity 9200,8,128,64,5000,6.1,90,1,Android,2018,486
+Realme,Snapdragon 8 Gen 2,12,1024,64,4000,6.1,120,1,Android,2019,575
+OnePlus,Snapdragon 778G,16,1024,64,4500,6.7,60,0,Android,2023,1104
+Sony,Snapdragon 778G,4,256,108,3000,6.7,144,1,Android,2023,778
+Google,Exynos 2200,8,64,200,4000,7.0,144,1,Android,2022,1019
+Motorola,Snapdragon 8 Gen 2,12,128,108,4000,6.1,90,0,Android,2020,500
+Vivo,Snapdragon 8 Gen 2,6,512,200,3000,6.1,60,0,Android,2022,813
+Xiaomi,Kirin 9000,4,64,108,6000,5.5,144,1,Android,2024,1175
+Samsung,Exynos 2200,12,256,12,3000,6.7,90,0,Android,2019,316
+Google,Snapdragon 778G,16,64,108,4000,6.7,60,1,Android,2018,450
+Apple,Kirin 9000,4,1024,200,3000,5.5,120,1,iOS,2023,1687
+Samsung,Exynos 2200,6,64,108,3000,5.5,144,0,Android,2022,702
+Sony,Dimensity 9200,16,1024,12,5000,6.7,120,1,Android,2019,549
+Xiaomi,Exynos 2200,8,1024,108,4500,6.1,120,1,Android,2020,718
+OnePlus,Dimensity 9200,4,1024,200,4500,6.4,60,0,Android,2022,1050
+Vivo,Exynos 2200,12,256,48,3000,5.5,90,1,Android,2018,390
+Xiaomi,Snapdragon 8 Gen 2,6,512,48,3000,6.1,60,1,Android,2024,839
+Apple,Kirin 9000,12,128,200,5000,6.1,144,1,iOS,2022,1647
+Realme,Snapdragon 778G,12,256,200,4500,5.5,60,1,Android,2023,1026
+Oppo,Exynos 2200,6,64,108,3000,6.1,60,1,Android,2024,726
+Sony,A17 Bionic,8,256,48,3000,6.7,144,1,Android,2023,765
+OnePlus,Snapdragon 8 Gen 2,8,64,108,4000,6.7,120,0,Android,2024,875
+OnePlus,Kirin 9000,8,64,12,3000,7.0,90,1,Android,2019,368
+Sony,Exynos 2200,8,512,108,4500,6.1,60,0,Android,2018,516
+OnePlus,Kirin 9000,16,512,108,6000,7.0,120,1,Android,2022,1342
+Oppo,Snapdragon 8 Gen 2,16,512,48,3000,6.1,60,0,Android,2024,859
+Motorola,Kirin 9000,12,128,48,4000,6.1,90,1,Android,2024,948
+Apple,Snapdragon 8 Gen 2,8,1024,48,3000,6.4,90,1,iOS,2018,627
+Oppo,Dimensity 9200,12,1024,12,6000,5.5,90,1,Android,2021,820
+Motorola,A17 Bionic,6,1024,12,3000,6.4,90,0,Android,2020,540
+OnePlus,Exynos 2200,4,512,108,5000,6.4,90,0,Android,2021,653
+Apple,Dimensity 9200,12,64,12,4000,5.5,60,1,iOS,2018,597
+Vivo,A17 Bionic,6,128,108,4000,5.5,120,0,Android,2019,389
+Oppo,Kirin 9000,6,128,200,4000,6.1,120,0,Android,2024,982
+Apple,A17 Bionic,6,128,108,5000,6.4,90,0,iOS,2021,1010
+Oppo,Snapdragon 8 Gen 2,12,256,200,6000,6.1,144,0,Android,2022,1224
+Google,Exynos 2200,4,256,12,3000,5.5,120,1,Android,2020,395
+Motorola,Snapdragon 778G,8,64,12,6000,5.5,60,0,Android,2024,1194
+Oppo,Kirin 9000,12,256,200,4000,5.5,60,1,Android,2022,947
+Samsung,A17 Bionic,4,256,12,4000,6.4,60,0,Android,2024,789
+Samsung,Dimensity 9200,16,512,200,4500,6.4,144,0,Android,2021,869
+Samsung,Snapdragon 8 Gen 2,6,64,200,4000,7.0,60,1,Android,2024,977
+Oppo,Snapdragon 8 Gen 2,8,64,48,4000,6.4,90,0,Android,2024,830
+Apple,Snapdragon 778G,6,128,64,3000,6.4,120,1,iOS,2019,504
+Samsung,Exynos 2200,8,512,200,4000,6.1,144,0,Android,2018,536
+Oppo,Snapdragon 8 Gen 2,16,256,48,4500,7.0,144,1,Android,2019,528
+Motorola,Snapdragon 8 Gen 2,16,64,200,5000,6.1,60,0,Android,2024,1292
+Sony,Snapdragon 8 Gen 2,8,256,12,5000,7.0,120,0,Android,2020,574
+Vivo,Kirin 9000,4,1024,64,4500,6.4,120,1,Android,2023,1153
+OnePlus,Snapdragon 778G,12,512,12,6000,6.7,90,0,Android,2022,1119
+OnePlus,Snapdragon 8 Gen 2,16,1024,200,3000,6.7,90,0,Android,2019,529
+Apple,Kirin 9000,6,64,12,6000,7.0,60,0,iOS,2024,1471
+Google,A17 Bionic,8,512,200,6000,6.4,60,1,Android,2018,580
+Realme,Exynos 2200,8,256,12,4000,7.0,144,1,Android,2022,803
+Google,Exynos 2200,16,512,48,4500,6.7,120,0,Android,2022,908
+Apple,Snapdragon 8 Gen 2,4,64,64,6000,6.7,60,1,iOS,2020,883
+Samsung,Exynos 2200,6,1024,48,5000,6.4,60,1,Android,2019,578
+Motorola,Kirin 9000,6,64,200,6000,6.4,144,1,Android,2020,697
+Apple,Kirin 9000,12,64,64,4500,6.7,90,1,iOS,2024,1590
+Oppo,A17 Bionic,4,128,200,6000,6.7,144,1,Android,2018,548
+Samsung,Dimensity 9200,16,1024,200,4500,6.4,90,0,Android,2019,548
+Apple,Exynos 2200,8,1024,12,3000,6.7,120,0,iOS,2024,1473
+Oppo,A17 Bionic,16,512,108,5000,7.0,120,1,Android,2020,672
+Apple,Snapdragon 778G,8,64,200,4000,6.4,90,1,iOS,2024,1605
+Apple,Snapdragon 8 Gen 2,4,128,64,3000,7.0,120,1,iOS,2021,718
+Samsung,A17 Bionic,12,128,64,6000,6.7,144,1,Android,2023,1207
+Realme,Snapdragon 778G,8,256,12,6000,7.0,120,0,Android,2020,678
+Xiaomi,Snapdragon 778G,8,256,12,4000,7.0,90,0,Android,2021,646
+Vivo,Dimensity 9200,16,512,48,6000,6.7,90,1,Android,2021,905
+Sony,Exynos 2200,8,64,48,3000,6.1,144,0,Android,2021,474
+OnePlus,Snapdragon 8 Gen 2,16,64,200,3000,6.1,120,0,Android,2019,462
+Sony,A17 Bionic,8,1024,108,6000,7.0,144,0,Android,2020,733
+Sony,Snapdragon 778G,4,1024,12,4000,5.5,120,1,Android,2019,514
+Xiaomi,A17 Bionic,16,1024,200,3000,6.7,144,1,Android,2018,521
+Sony,Snapdragon 8 Gen 2,8,512,108,4000,6.1,60,1,Android,2018,432
+Samsung,Kirin 9000,12,64,48,4000,6.7,120,1,Android,2024,933
+Samsung,Snapdragon 8 Gen 2,4,512,200,4500,6.1,60,1,Android,2018,557
+Sony,Exynos 2200,16,128,12,4500,6.4,60,1,Android,2019,454
+Motorola,Snapdragon 8 Gen 2,12,256,64,6000,6.7,144,0,Android,2022,1038
+OnePlus,Snapdragon 8 Gen 2,16,256,12,4500,6.7,60,0,Android,2021,598
+Vivo,Dimensity 9200,4,256,48,5000,7.0,120,1,Android,2020,624
+Oppo,Kirin 9000,6,256,12,5000,6.7,120,1,Android,2023,1050
+Samsung,Snapdragon 8 Gen 2,16,64,64,6000,5.5,120,0,Android,2022,1116
+Apple,Kirin 9000,16,1024,64,5000,6.4,144,0,iOS,2024,2168
+OnePlus,Dimensity 9200,12,1024,64,5000,7.0,120,1,Android,2019,526
+Google,Snapdragon 8 Gen 2,6,128,200,3000,6.1,90,0,Android,2018,419
+Vivo,Snapdragon 778G,16,512,48,5000,7.0,60,0,Android,2019,526
+Samsung,Exynos 2200,16,512,108,3000,6.1,60,1,Android,2018,453
+OnePlus,Dimensity 9200,12,128,48,3000,6.1,60,0,Android,2022,713
+OnePlus,Snapdragon 8 Gen 2,6,64,12,3000,6.4,90,0,Android,2020,424
+Realme,Exynos 2200,6,512,12,6000,6.7,90,0,Android,2022,1033
+Vivo,Snapdragon 8 Gen 2,8,128,64,4500,7.0,90,1,Android,2023,924
+OnePlus,Exynos 2200,12,64,48,5000,7.0,60,0,Android,2020,525
+OnePlus,Snapdragon 778G,12,64,48,4000,7.0,60,1,Android,2018,423
+Samsung,A17 Bionic,16,512,12,6000,7.0,60,0,Android,2018,563
+Apple,Snapdragon 778G,12,256,12,3000,5.5,90,0,iOS,2018,522
+Vivo,Kirin 9000,12,128,108,3000,5.5,144,0,Android,2022,837
+Samsung,A17 Bionic,8,128,108,4000,7.0,120,0,Android,2021,607
