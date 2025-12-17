@@ -13,13 +13,13 @@ brand = st.selectbox("Brand", ['OnePlus', 'Samsung', 'Vivo', 'Oppo', 'Xiaomi', '
 processor = st.selectbox("Processor", ['Dimensity 9200', 'Snapdragon 8 Gen 2', 'A17 Bionic', 'Exynos 2200', 'Kirin 9000', 'Snapdragon 778G'])
 ram = st.selectbox("RAM (GB)", [4, 6, 8, 12, 16])
 storage = st.selectbox("Storage (GB)", [64, 128, 256, 512, 1024])
-camera = st.number_input("Camera (MP)", min_value=5, max_value=200, value=48)
-battery = st.number_input("Battery (mAh)", min_value=2000, max_value=7000, value=4000)
+camera = st.number_input("Camera (MP)", min_value=5, max_value=200, value=50)
+battery = st.selectbox("Battery (mAh)", [3000, 3500, 4000, 4500, 5000, 5500, 6000, 6500])
 display_size = st.number_input("Display Size (inches)", min_value=5.0, max_value=8.0, value=6.5, step=0.1)
 refresh_rate = st.selectbox("Refresh Rate (Hz)", [60, 90, 120, 144])
 five_g = st.selectbox("5G Support", [0, 1], format_func=lambda x: "Yes" if x == 1 else "No")
 os = st.selectbox("Operating System", ['Android', 'iOS'])
-launch_year = st.selectbox("Launch Year", [2018, 2019, 2020, 2021, 2022, 2023, 2024])
+launch_year = st.selectbox("Launch Year", [2019, 2020, 2021, 2022, 2023, 2024, 2025])
 
 # User input dictionary
 user_input = {
